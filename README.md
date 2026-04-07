@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT support specialist Projects:</h2>
 
 - <b>Active Directory Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - DCHP Basic Configuration([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Ugake24/DHCP_Lab))
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
